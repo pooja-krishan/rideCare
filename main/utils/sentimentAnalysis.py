@@ -2,8 +2,8 @@ from googleapiclient import discovery
 import os
 import openai
 
-openai.api_key = "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"
-GOOGLE_API_KEY = "AIzaSyB6uQrtxENrtnMMuJoKjYMdaPoRmDM_rNE"
+openai.api_key = ""
+GOOGLE_API_KEY = ""
 
 google_client = discovery.build(
   "commentanalyzer",
