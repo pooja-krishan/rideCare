@@ -7,6 +7,8 @@ The rapid growth of ride-hailing services has undoubtedly transformed the transp
 rideCare operates as a seamless fusion of cutting-edge technologies, harnessing the prowess of Machine Learning, specifically Natural Language Processing, in conjunction with hardware like the Raspberry Pi. By employing sophisticated linguistic analysis, the system detects potential conflicts within conversations between the driver and passengers. Subsequently, it triggers alerts, enabling registered emergency contacts to access a transcript of the conversation along with a live-streaming link. Moreover, this capability can be harnessed by emergency services like 911 to intercede as deemed necessary.
 
 ## Construction
+### System Architecture
+![rideCare Logo](rideCare-system-architecture.png)
 ### Hardware Components
 - Raspberry Pi Model 4 B (Running Raspbian OS)
 - C922 PRO HD STREAM WEBCAM
