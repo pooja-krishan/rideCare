@@ -8,7 +8,7 @@ rideCare operates as a seamless fusion of cutting-edge technologies, harnessing 
 
 ## Construction
 ### System Architecture
-![rideCare Logo](https://github.com/pooja-krishan/rideCare/blob/main/rideCare-system-architecture.png)
+![rideCare Logo](https://github.com/pooja-krishan/rideCare/blob/main/rideCare-system-architecture.PNG)
 ### Hardware Components
 - Raspberry Pi Model 4 B (Running Raspbian OS)
 - C922 PRO HD STREAM WEBCAM
