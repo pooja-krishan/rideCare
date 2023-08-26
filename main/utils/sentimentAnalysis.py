@@ -1,9 +1,13 @@
 from googleapiclient import discovery
 import os
+
+from dotenv import load_dotenv
+load_dotenv()
+
 import openai
 
-openai.api_key = ""
-GOOGLE_API_KEY = ""
+openai.api_key = os.getenv("OPEN_AI_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 google_client = discovery.build(
   "commentanalyzer",
