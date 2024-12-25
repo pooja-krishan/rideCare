@@ -1,4 +1,5 @@
-# Enhancing Rider Safety with rideCare: A Comprehensive Ride Monitoring Solution
+# Enhancing Rider Safety with rideCare
+#### A comprehensive ride monitoring solution
 
 ## Introduction
 The rapid growth of ride-hailing services has undoubtedly transformed the transportation landscape. However, this evolution has brought to the forefront concerns regarding rider safety. In response to these concerns, we have devised an innovative solution that aims to ensure the safety and enjoyment of all passengers. Our brainchild, rideCare, introduces a novel hardware component capable of autonomously activating a dashcam to live-stream the unfolding events to authorized personnel. In parallel, the system dispatches real-time text alerts via Twilio to designated emergency contacts, equipping them to take immediate manual actions and ensure the well-being of the riders.
