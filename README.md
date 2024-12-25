@@ -34,8 +34,8 @@ The achievements that particularly stand out in our journey include:
 - Harnessing the capabilities of vosk, a speech-to-text library, to seamlessly transmute real-time speech into text for predictive analyses.
 - Successfully designing and implementing a comprehensive solution that integrates both hardware and software components to enhance rider safety.
 
-## Future Trajectory - Advancing SafeRide.ai
-Our vision for SafeRide.ai encompasses several forward-looking features and advancements, including:
+## Future Trajectory - Advancing rideCare
+Our vision for rideCare encompasses several forward-looking features and advancements, including:
 - Implementation of speaker diarization to accurately identify and alert targeted emergency contacts.
 - Construction of an expansive web interface to facilitate seamless data streaming and accessibility.
 
